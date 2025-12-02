@@ -1,0 +1,15 @@
+# ninja log v6
+27	492	7863965203125709	CroopingSystem_autogen/timestamp	9b447775b435f501
+27	492	7863965203125709	C:/Users/amitv/Documents/Socket Programming/CroopingSystem/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CroopingSystem_autogen/timestamp	9b447775b435f501
+27	492	7863965203125709	C:/Users/amitv/Documents/Socket Programming/CroopingSystem/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CroopingSystem_autogen/mocs_compilation.cpp	9b447775b435f501
+1617	9599	7863955037060807	CMakeFiles/CroopingSystem.dir/CroopingSystem_autogen/mocs_compilation.cpp.obj	c43e7368f647e979
+27	492	7863965203125709	CroopingSystem_autogen/mocs_compilation.cpp	9b447775b435f501
+5743	6444	7863965260306061	CroopingSystem.exe	6c0dce2d6456f86f
+1668	9678	7863955037583729	CMakeFiles/CroopingSystem.dir/main.cpp.obj	61612737e4c42fe
+494	5743	7863965207778614	CMakeFiles/CroopingSystem.dir/mainwindow.cpp.obj	92c8e01cf284a95
+22	501	7863966054249866	CroopingSystem_autogen/timestamp	9b447775b435f501
+22	501	7863966054249866	CroopingSystem_autogen/mocs_compilation.cpp	9b447775b435f501
+22	501	7863966054249866	C:/Users/amitv/Documents/Socket Programming/CroopingSystem/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CroopingSystem_autogen/timestamp	9b447775b435f501
+22	501	7863966054249866	C:/Users/amitv/Documents/Socket Programming/CroopingSystem/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CroopingSystem_autogen/mocs_compilation.cpp	9b447775b435f501
+503	5649	7863966059014190	CMakeFiles/CroopingSystem.dir/mainwindow.cpp.obj	92c8e01cf284a95
+5649	6202	7863966110511797	CroopingSystem.exe	6c0dce2d6456f86f
